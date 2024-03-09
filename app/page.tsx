@@ -36,14 +36,14 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <div className="my-16 text-center animate-fade-in">
         <h2 className="text-sm text-zinc-500 ">
-        Curious minds, unite! Join me on {" "}
-          <Link
+        I thrive on turning ideas into action,  {" "}bringing a unique blend of creativity and problem solving to every opportunity
+          <br />Let's Elevate Together: Connect with Me <Link
             target="_blank"
             href="https://www.linkedin.com/in/gauravvsinghbhadauria/"
             className="underline duration-500 hover:text-zinc-300"
           >
             LinkedIn
-          </Link>    for a mystery-solving session
+          </Link>    
         </h2>
       </div>
     </div>
